@@ -6,7 +6,7 @@ Recreation of the case study from:
 
 > **Metamorphic Testing for Web Services: A Case Study**  
 > *Jun Sun, Yan Wang, Jin Song Dong*  
-> [ISSRE 2011](https://doi.org/10.1109/ISSRE.2011.54)
+> [ISSRE 2011](https://ieeexplore.ieee.org/document/6009400)
 
 ---
 
