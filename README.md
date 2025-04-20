@@ -142,7 +142,10 @@ MIT — free to use and modify for academic or educational purposes.
 
 ## 🙌 Acknowledgments
 
-This work is based on the paper by Jun Sun et al. presented at ISSRE 2011. This project modernizes the original case study using REST APIs, Playwright, and StrykerJS for practical application and educational use.
+## 🙌 Acknowledgments
+
+This work is based on the paper *"Metamorphic Testing for Web Services: A Case Study"* presented at ISSRE 2011. This project modernizes the original case study using REST APIs, Playwright, and StrykerJS for practical and educational purposes.
+
 
 ---
 
