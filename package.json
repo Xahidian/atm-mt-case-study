@@ -1,0 +1,24 @@
+{
+  "name": "atm-mt-case-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@stryker-mutator/core": "^8.7.1",
+    "@stryker-mutator/karma-runner": "^8.7.1",
+    "playwright": "^1.52.0",
+    "stryker-cli": "^1.0.2"
+  }
+}
