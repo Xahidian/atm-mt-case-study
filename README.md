@@ -82,7 +82,7 @@ npx stryker run
 | Test Suite      | Mutation Score | Mutants Killed |
 |-----------------|----------------|----------------|
 | Functional      | 0%             | 0/46           |
-| MR-Based        | 8.7%           | 4/46           |
+| MR-Based        | 10.87%           | 5/46           |
 
 > **Insight**: MR tests detected faults missed by functional tests, demonstrating their advantage in oracle-limited environments.
 
